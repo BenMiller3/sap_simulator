@@ -5,8 +5,13 @@ class Animal:
         self.health = health
         self.tier = tier
 
-    def lose_health(self, amount):
-        self.health -= amount
+    def attacks(self):
+        # add attack modifiers here
+        return self.attack
+
+    def take_damage(self, damage):
+        # add defense modifiers here
+        self.health -= damage
 
     def is_alive(self):
         return self.health > 0

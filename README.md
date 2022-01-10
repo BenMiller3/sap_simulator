@@ -2,7 +2,7 @@
 
 ![Cover Image](simulator/assets/cover_image.jpg)
 
-### Simulate and determine the best possible strategies
+### Simulate and determine the best possible strategies using Monte Carlo simulation
 
 
 [SAP Created by Team Wood Games](https://teamwoodgames.com/)
